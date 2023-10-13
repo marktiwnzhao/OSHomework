@@ -1,0 +1,4 @@
+megs: 32
+display_library: win32
+floppya: 1_44=b.img, status=inserted
+boot: floppy
